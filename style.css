@@ -1,0 +1,210 @@
+<style type="text/css">
+.form-style-3{
+       max-width: 450px;
+ }
+   
+
+h2 {
+  position: absolute;
+  top: 10%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  background: #92cbdf;
+  padding: 50x 50px;
+ font-size: 45px;
+   display: flex;
+  justify-content: center;
+
+}
+h3 {
+
+ font-weight: bold;
+       font-size: 20px;
+
+       
+
+}
+body{
+background: #93CDE8
+
+
+}
+
+
+
+fieldset {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  justify-content: center;
+  transform: translate(-50%,-50%);
+  background: #92cbdf;
+  padding: 10px 20px;
+
+}
+.form-style-3 label{
+       display:block;
+       margin-bottom: 10px;
+      
+    
+}
+.form-style-3 label > span{
+       float: left;
+       width: 100px;
+       color: #000000;
+       font-weight: bold;
+       font-size: 13px;
+       text-shadow: 1px 1px 1px #fff;
+    
+    
+}
+.form-style-3 fieldset{
+       border-radius: 10px;
+       -webkit-border-radius: 10px;
+       -moz-border-radius: 10px;
+       margin: 0px 0px 10px 0px;
+       border: 1px solid #afe4fc;
+       padding: 20px;
+       background: #afe4fc;
+       box-shadow: inset 0px 0px 15px #afe4fc;
+       -moz-box-shadow: inset 0px 0px 15px #afe4fc;
+       -webkit-box-shadow: inset 0px 0px 15px #afe4fc;
+}
+}
+.form-style-3 textarea{
+       width:250px;
+       height:100px;
+    border-radius: 34px 34px 34px 34px;
+}
+
+.form-style-3 textarea{
+       border-radius: 3px;
+       radius: 3px;
+       border-radius: 3px;
+       border: 1px solid #145369;
+       outline: none;
+       color: #afe4fc;
+       padding: 5px 8px 5px 8px;
+       box-shadow: inset 1px 1px 4px #afe4fc;
+       box-shadow: inset 1px 1px 4px #145369;
+       box-shadow: inset 1px 1px 4px #145369;
+       background: #FFEFF6;
+       width:50%;
+}
+.form-style-3  input[type=submit],
+.form-style-3  input[type=button]{
+    
+       background: #145369;
+       border: 1px solid #145369;
+       padding: 5px 15px 5px 15px;
+       color: #FFFFFF;
+       box-shadow: inset -1px -1px 3px #145369;
+       -moz-box-shadow: inset -1px -1px 3px #145369;
+       -webkit-box-shadow: inset -1px -1px 3px #145369;
+       border-radius: 3px;
+       border-radius: 3px;
+       -webkit-border-radius: 3px;
+       -moz-border-radius: 3px;    
+       font-weight: bold;
+
+}
+.required{
+       color:red;
+       font-weight:normal;
+
+}
+.read .create-contact {
+  	display: inline-block;
+  	text-decoration: none;
+  	background-color: #146b27;
+  	font-weight: bold;
+  	font-size: 14px;
+  	color: #FFFFFF;
+  	padding: 10px 15px;
+  	margin: 15px 0;
+}
+.read .create-contact:hover {
+  	background-color: #32a367;
+}
+.read .pagination {
+  	display: flex;
+  	justify-content: flex-end;
+	width: 100%;
+}
+.read .pagination a {
+  	display: inline-block;
+  	text-decoration: none;
+  	background-color: #a5a7a9;
+  	font-weight: bold;
+  	color: #FFFFFF;
+  	padding: 5px 10px;
+  	margin: 15px 0 15px 5px;
+	
+}
+.read .pagination a:hover {
+  	background-color: #999b9d;
+}
+.read table {
+  	width: 100%;
+  	padding-top: 30px;
+  	border-collapse: collapse;
+}
+.read table thead {
+  	background-color: #ebeef1;
+  	border-bottom: 1px solid #d3dae0;
+}
+.read table thead td {
+  	padding: 10px;
+  	font-weight: bold;
+  	color: #000000;
+  	font-size: 10px;
+}
+.read table tbody tr {
+  	border-bottom: 1px solid #d3dae0;
+}
+.read table tbody tr:nth-child(even) {
+  	background-color: #fbfcfc;
+}
+.read table tbody tr:hover {
+  	background-color: #376ab7;
+}
+.read table tbody tr:hover td {
+  	color: #FFFFFF;
+}
+.read table tbody tr:hover td:nth-child(1) {
+  	color: #FFFFFF;
+}
+.read table tbody tr td {
+  	padding: 10px;
+}
+.read table tbody tr td:nth-child(1) {
+  	color: #a5a7a9;
+}
+.read table tbody tr td.actions {
+  	padding: 8px;
+  	text-align: right;
+}
+.read table tbody tr td.actions .edit, .read table tbody tr td.actions .trash {
+  	display: inline-flex;
+  	text-align: right;
+  	text-decoration: none;
+  	color: #FFFFFF;
+  	padding: 10px 12px;
+}
+.read table tbody tr td.actions .trash {
+  	background-color: #b73737;
+}
+.read table tbody tr td.actions .trash:hover {
+  	background-color: #a33131;
+}
+.read table tbody tr td.actions .edit {
+  	background-color: #37afb7;
+}
+.read table tbody tr td.actions .edit:hover {
+  	background-color: #319ca3;
+}
+
+</style>
+</style>
+
+
